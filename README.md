@@ -1,2 +1,2 @@
 # LinixUbuntuIntroduction
-in this file, i try to introduce and install virtual machine and ubuntu
+in this file, I've tried to introduce and install virtual machine and ubuntu
